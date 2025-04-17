@@ -11,7 +11,7 @@ Controlled Environment: By mocking the API, I could simulate various scenarios (
 The mock implementation is handled using simple JavaScript objects and functions that simulate the behavior of an actual API.
 
 AI Tool Usage
-I did not use any AI tools in the development of this project. However, I used standard web development best practices, libraries like React, and other JavaScript/TypeScript utilities to speed up the development process. If I had used an AI tool, I would likely have used it for:
+Because I am not good at api creation, I use AI on the mock api simulation part
 
 Code Suggestions: For improving code quality and suggesting better approaches for implementing certain features.
 
